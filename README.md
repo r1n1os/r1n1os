@@ -19,8 +19,11 @@ I'm enjoing:
   <li>Jetpack Compose </li>
 </ul>
 
-<!--## You can also find me on: -->
-
+## You can also find me on:
+<ul>
+  <li><a href="https://www.linkedin.com/in/evagoras-frangou-14a7b2163">LinkedIn</a></li>
+  <li><a href="https://r1n1os.medium.com/">Medium</a></li>
+</ul>
 
 
 
