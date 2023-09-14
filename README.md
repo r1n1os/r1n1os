@@ -5,12 +5,12 @@ I'm enjoing:
 <ul>
   <li>Developing mobile apps :iphone:. </li>
   <li>Spending time with my :family_man_woman_boy: :dog: :parrot: :fish:</li>
-  <li>Moviews and Video Games :video_game:</li>
+  <li>Movies and Video Games :video_game:</li>
 </ul>
 
 
 
-## My Skills set and Tools
+## My Skillset and Tools
 [![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,java,androidstudio,postman&theme=dark )](https://skillicons.dev)
 
 
@@ -19,11 +19,15 @@ I'm enjoing:
   <li>Jetpack Compose </li>
 </ul>
 
+<!--## You can also find me on: -->
+
+
 
 
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1n1os)](https://git.io/streak-stats)
+Get in touch (Might be use instead of you can also find me on
 **r1n1os/r1n1os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
