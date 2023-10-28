@@ -13,10 +13,14 @@ I'm enjoing:
 ## My Skillset and Tools
 [![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,java,androidstudio,postman&theme=dark )](https://skillicons.dev)
 
-
 ## Skills in progress
 <ul>
   <li>Jetpack Compose </li>
+</ul>
+
+## Interested for Contributions
+<ul>
+  <li>Looking for interesting project to contribute</li>
 </ul>
 
 ## You can also find me on:
