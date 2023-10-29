@@ -18,6 +18,13 @@ I'm enjoing:
   <li>Jetpack Compose </li>
 </ul>
 
+## Projects under development
+<ul>
+  <li>Flutter Example Project</li>
+  <li>Wearable Example Project</li>
+</ul>
+
+
 ## Interested for Contributions
 <ul>
   <li>Looking for interesting project to contribute. Feel free to contact me via social media mentioned below</li>
