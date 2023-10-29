@@ -20,7 +20,7 @@ I'm enjoing:
 
 ## Interested for Contributions
 <ul>
-  <li>Looking for interesting project to contribute</li>
+  <li>Looking for interesting project to contribute. Feel free to contact me via social media mentioned below</li>
 </ul>
 
 ## You can also find me on:
