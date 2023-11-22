@@ -21,7 +21,6 @@ I'm enjoing:
 ## Projects under development
 <ul>
   <li>Flutter Example Project</li>
-  <li>Wearable Example Project</li>
 </ul>
 
 
