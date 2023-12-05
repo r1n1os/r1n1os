@@ -3,7 +3,7 @@
 
 I'm enjoing:
 <ul>
-  <li>Developing mobile apps :iphone:. </li>
+  <li>Developing mobile apps :iphone: </li>
   <li>Spending time with my :family_man_woman_boy: :dog: :parrot: :fish:</li>
   <li>Movies and Video Games :video_game:</li>
 </ul>
@@ -18,10 +18,10 @@ I'm enjoing:
   <li>Jetpack Compose </li>
 </ul>
 
-## Projects under development
+<!--## Projects under development
 <ul>
   <li>Flutter Example Project</li>
-</ul>
+</ul>-->
 
 
 ## Interested for Contributions
