@@ -30,13 +30,10 @@ I'm enjoing:
 </ul>
 
 ## You can also find me on:
-<ul>
-  <li><a href="https://www.linkedin.com/in/evagoras-frangou-14a7b2163">LinkedIn</a></li>
-  <li><a href="https://r1n1os.medium.com/">Medium</a></li>
-</ul>
-
-
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r1n1os2)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evagoras-frangou-14a7b2163)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://r1n1os.medium.com/)
+<!--[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nicosnicolaou16) -->
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1n1os)](https://git.io/streak-stats)
