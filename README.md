@@ -1,5 +1,6 @@
 # Hi there! 👋
-### I'm Evagoras Frangou - Senior Software Engineer Team Lead, Android and Flutter Developer. 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Evagoras+Frangou;Senior+Software+Engineer+Team+Lead+Android+and+Flutter+Developer&multiline=true&repeat=false&width=700)](https://git.io/typing-svg)
+<!--### I'm Evagoras Frangou - Senior Software Engineer Team Lead, Android and Flutter Developer. -->
 
 I'm enjoing:
 <ul>
