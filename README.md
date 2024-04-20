@@ -9,6 +9,7 @@ I'm enjoing:
   <li>Movies and Video Games :video_game:</li>
 </ul>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1n1os&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=36BCF7&&icon_color=36BCF7&custom_title=Github+Stats)
 
 
 ## My Skillset and Tools
@@ -16,7 +17,7 @@ I'm enjoing:
 
 ## Skills in progress
 <ul>
-  <li>Jetpack Compose </li>
+  <li>Jetpack Compose :construction:</li>
 </ul>
 
 <!--## Projects under development
