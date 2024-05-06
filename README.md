@@ -1,7 +1,7 @@
 # Hi there! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Evagoras+Frangou;Senior+Software+Engineer+Team+Lead+-+Android+and+Flutter+Developer&multiline=true&repeat=false&width=900)](https://git.io/typing-svg)
 <!--### I'm Evagoras Frangou - Senior Software Engineer Team Lead, Android and Flutter Developer. -->
-
+<!--![](https://komarev.com/ghpvc/?username=your-github-r1n1os) -->
 I'm enjoing:
 <ul>
   <li>Developing mobile apps :iphone: </li>
