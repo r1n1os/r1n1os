@@ -1,6 +1,5 @@
 # Hi there! 👋
 <!--[![committers.top badge](https://user-badge.committers.top/cyprus/USERNAME.svg)](https://user-badge.committers.top/cyprus/r1n1os)-->
-[![views](https://komarev.com/ghpvc/?username=NicosNicolaou16)](https://komarev.com/ghpvc/?username=r1n1os)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Evagoras+Frangou;Senior+Software+Engineer+Team+Lead+-+Android+and+Flutter+Developer&multiline=true&repeat=false&width=900)](https://git.io/typing-svg)
 <!--### I'm Evagoras Frangou - Senior Software Engineer Team Lead, Android and Flutter Developer. -->
 <!--![](https://komarev.com/ghpvc/?username=your-github-r1n1os) -->
