@@ -1,6 +1,7 @@
-# Hi there! 👋
-<!--[![committers.top badge](https://user-badge.committers.top/cyprus/USERNAME.svg)](https://user-badge.committers.top/cyprus/r1n1os)-->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Evagoras+Frangou;Senior+Software+Engineer+Team+Lead+-+Android+and+Flutter+Developer&multiline=true&repeat=false&width=900)](https://git.io/typing-svg)
+# Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+I am Evagoras Frangou, a passionate and ambitious software engineer with over five years of experience in mobile application development. My expertise spans native Android development using Kotlin and Java, as well as cross-platform development with the Flutter framework for both Android and iOS.
+
+Currently, I serve as a Senior Software Engineer and Team Lead, where I leverage my professional expertise in Java, Kotlin, and Dart to drive project success and innovation.
 <!--### I'm Evagoras Frangou - Senior Software Engineer Team Lead, Android and Flutter Developer. -->
 <!--![](https://komarev.com/ghpvc/?username=your-github-r1n1os) -->
 I'm enjoing:
@@ -14,7 +15,7 @@ I'm enjoing:
 
 
 ## My Skillset and Tools
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,java,androidstudio,postman&theme=dark )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,java,androidstudio,postman,github,bitbucket&theme=dark&perline=4)](https://skillicons.dev)
 
 ## Skills in progress
 <ul>
@@ -37,7 +38,7 @@ I'm enjoing:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evagoras-frangou-14a7b2163)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://r1n1os.medium.com/)
 <!--[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nicosnicolaou16) -->
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=r1n1os)
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1n1os)](https://git.io/streak-stats)
 Get in touch (Might be use instead of you can also find me on
