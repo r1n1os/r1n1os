@@ -17,7 +17,7 @@ I'm enjoing:
 ## My Skillset and Tools
 [![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,java,androidstudio,postman,github,bitbucket&theme=dark&perline=4)](https://skillicons.dev)
 
-## Skills in progress
+<!--## Skills in progress
 <ul>
   <li>Jetpack Compose :construction:</li>
 </ul>
