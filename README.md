@@ -16,6 +16,9 @@ I'm enjoing:
 ### Language, Tools and Platforms
 [![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,java,androidstudio,postman,github,bitbucket&theme=dark&perline=4)](https://skillicons.dev)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/r1n1os/langs)](https://githubtrends.io)
+
+
 ## My Flutter Package(s)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r1n1os&repo=sliding_action_button&show_icons=true&bg_color=00000000&border_color=36BCF7)](https://github.com/r1n1os/sliding_action_button)
 
