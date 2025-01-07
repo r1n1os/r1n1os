@@ -17,7 +17,7 @@ I'm enjoing:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,java,androidstudio,postman,github,bitbucket&theme=dark&perline=4)](https://skillicons.dev)
 
 ## My Flutter Package(s)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r1n1os&repo=sliding_action_button&show_icons=true&bg_color=00000000&border_color=36BCF7)](https://github.com/r1n1os/sliding_action_button)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r1n1os&repo=sliding_action_button&show_icons=true&bg_color=00000000&border_color=36BCF7&title_color=ffffff&text_color=ffffff)](https://github.com/r1n1os/sliding_action_button)
 
 ## Interested for Contributions
 <ul>
