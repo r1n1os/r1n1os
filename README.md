@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-I am Evagoras Frangou, a passionate and ambitious software engineer with over five years of experience in mobile application development. My expertise spans native Android development using Kotlin and Java, as well as cross-platform development with the Flutter framework for both Android and iOS.
+I am Evagoras Frangou, a passionate and ambitious software engineer with over five years of experience in mobile application development. My expertise spans native Android development using Kotlin, as well as cross-platform development with the Flutter framework for both Android and iOS.
 
-Currently, I serve as a Senior Software Engineer and Team Lead, where I leverage my professional expertise in Java, Kotlin, and Dart to drive project success and innovation.
+Currently, I serve as a Senior Software Engineer and Team Lead, where I leverage my professional expertise in Kotlin, and Dart to drive project success and innovation.
 <!--### I'm Evagoras Frangou - Senior Software Engineer Team Lead, Android and Flutter Developer. -->
 <!--![](https://komarev.com/ghpvc/?username=your-github-r1n1os) -->
 I'm enjoing:
