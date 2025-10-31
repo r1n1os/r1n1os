@@ -34,10 +34,10 @@ Outside of work, I'm:
 
 ## 🤝 Let’s Collaborate  
 - **Contributions welcome:** I’m open to adding new mobile tooling, contributing to Flutter/Android open-source <!-- , or teaming up on innovative apps -->.  
-- **Get in touch:**  
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r1n1os2) <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evagoras-frangou-14a7b2163)<br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://r1n1os.medium.com/)<br>
+- **Get in touch:** <br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evagoras-frangou-14a7b2163)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/r1n1os2) <br>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://r1n1os.medium.com/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/r1n1os)<br>
 - **Fun fact:** Outside of coding, I enjoy movies and video games — always up for a good cinematic recommendation or multiplayer session!
 
